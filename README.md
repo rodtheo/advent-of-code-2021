@@ -6,11 +6,11 @@ Solutions for the Advent of Code 2021
 
 |  	| Problem 	| Solution 	| Execution time 	| New skills learned 	| Finished 	|
 |---	|---	|---	|---	|---	|---	|
-| Day 1 	| [Problem 1](https://adventofcode.com/2021/day/1) 	| main.rs (part 1), main.rs (part 2) 	|  	| [anyhow](https://crates.io/crates/anyhow) AND [itertools](https://crates.io/crates/itertools) 	| ✓ 	|
-| Day 2 	| [Problem 2](https://adventofcode.com/2021/day/2) 	| main.rs 	|  	| [peg parser](https://crates.io/crates/peg) 	| ✓ 	|
-| Day 3 	| [Problem 3](https://adventofcode.com/2021/day/3) 	| main.rs 	|  	| [nom parser](https://crates.io/crates/nom) AND [bitvec](https://crates.io/crates/bitvec) 	| ✓ 	|
-| Day 4 	| [Problem 4](https://adventofcode.com/2021/day/4) 	| main.rs 	|  	| [ndarray](https://crates.io/crates/ndarray) AND [anyhow](https://crates.io/crates/anyhow) AND [nom parser](https://crates.io/crates/nom)  	| ✓ 	|
-| Day 5 	| [Problem 5](https://adventofcode.com/2021/day/5) 	| main.rs 	|  	| [ndarray](https://crates.io/crates/ndarray) AND [itertools](https://crates.io/crates/itertools) AND [nom parser](https://crates.io/crates/nom)  	| ✓ 	|
+| Day 1 	| [Problem 1](https://adventofcode.com/2021/day/1) 	| [main.rs](https://github.com/rodtheo/advent-of-code-2021/blob/master/day01/part01/src/main.rs) (part 1), [main.rs](https://github.com/rodtheo/advent-of-code-2021/blob/master/day01/part02/src/main.rs) (part 2) 	|  	| [anyhow](https://crates.io/crates/anyhow) AND [itertools](https://crates.io/crates/itertools) 	| ✓ 	|
+| Day 2 	| [Problem 2](https://adventofcode.com/2021/day/2) 	| [main.rs](https://github.com/rodtheo/advent-of-code-2021/blob/master/day02/src/main.rs) 	|  	| [peg parser](https://crates.io/crates/peg) 	| ✓ 	|
+| Day 3 	| [Problem 3](https://adventofcode.com/2021/day/3) 	| [main.rs](https://github.com/rodtheo/advent-of-code-2021/blob/master/day03/src/main.rs) 	|  	| [nom parser](https://crates.io/crates/nom) AND [bitvec](https://crates.io/crates/bitvec) 	| ✓ 	|
+| Day 4 	| [Problem 4](https://adventofcode.com/2021/day/4) 	| [main.rs](https://github.com/rodtheo/advent-of-code-2021/blob/master/day04/src/main.rs) 	|  	| [ndarray](https://crates.io/crates/ndarray) AND [anyhow](https://crates.io/crates/anyhow) AND [nom parser](https://crates.io/crates/nom)  	| ✓ 	|
+| Day 5 	| [Problem 5](https://adventofcode.com/2021/day/5) 	| [main.rs](https://github.com/rodtheo/advent-of-code-2021/blob/master/day05/src/main.rs) 	|  	| [ndarray](https://crates.io/crates/ndarray) AND [itertools](https://crates.io/crates/itertools) AND [nom parser](https://crates.io/crates/nom)  	| ✓ 	|
 | Day 6 	| [Problem 6](https://adventofcode.com/2021/day/6) 	|  	|  	|  	|  	|
 | Day 7 	| [Problem 7](https://adventofcode.com/2021/day/7) 	|  	|  	|  	|  	|
 | Day 8 	| [Problem 8](https://adventofcode.com/2021/day/8) 	|  	|  	|  	|  	|
